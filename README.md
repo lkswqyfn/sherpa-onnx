@@ -1,3 +1,6 @@
+ ###
+ 使用次世代 Kaldi 和 onnxruntime 实现语音转文字、文本转语音、说话者对话、语音增强、源分离和 VAD，无需互联网连接。支持嵌入式系统、Android、iOS、HarmonyOS、树莓派、RISC-V、RK NPU、Axera NPU、Ascend NPU、x86_64 服务器、websocket 服务器/ 
+ 客户端，支持 12 种编程语言
  ### Supported functions
 
 |Speech recognition| [Speech synthesis][tts-url] | [Source separation][ss-url] |
